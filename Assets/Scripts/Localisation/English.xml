@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="english" ID="0">
+  <!-- Main Menu -->
+  <text key="EXIT">Exit</text>
+</Language>
